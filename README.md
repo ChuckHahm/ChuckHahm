@@ -1,7 +1,1 @@
-### Failure Diagnostics
-
-<!--
-Here are some ideas to get you started:
-
-- I’m currently working on failure models.
--->
+### Projects that span mulitple diciplines
