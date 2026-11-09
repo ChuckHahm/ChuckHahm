@@ -1,1 +1,1 @@
-### Projects that span multiple diciplines
+### Projects spanning multiple diciplines
